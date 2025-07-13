@@ -44,7 +44,7 @@ A fully functional **Google Calendar Clone** built using **React Native**, **Typ
 ## 📸 Screenshots
 
 > *(Add app screenshots here to showcase Monthly View, Daily View, Event Creation, etc.)*
-<img width="1080" height="2400" alt="Screenshot_1752385211" src="https://github.com/user-attachments/assets/c8049116-90d4-45ae-a18d-c902c7957157" />
+<img width="300" height="300" alt="Screenshot_1752385211" src="https://github.com/user-attachments/assets/c8049116-90d4-45ae-a18d-c902c7957157" />
 <img width="1080" height="2400" alt="Screenshot_1752385216" src="https://github.com/user-attachments/assets/efa34816-1d72-4889-92dc-b9a6e52cf344" />
 <img width="1080" height="2400" alt="Screenshot_1752385221" src="https://github.com/user-attachments/assets/384ed69a-e3f4-4b9f-8926-4b9417a289fb" />
 
