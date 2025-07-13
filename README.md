@@ -61,7 +61,7 @@ A fully functional **Google Calendar Clone** built using **React Native**, **Typ
   npm install -g expo-cli
 
 ## Installation
-  git clone https://github.com/your-username/google-calendar-clone.git
-  cd google-calendar-clone
-  npm install
-  npx expo start
+ - git clone https://github.com/your-username/google-calendar-clone.git
+ - cd google-calendar-clone
+ - npm install
+ - npx expo start
